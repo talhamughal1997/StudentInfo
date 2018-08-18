@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\215b707cef1de66f119be5a8fb57504f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ab547d70e2fdd62035a5acd3cba09077\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\820292d3e14822c459c9eb3eb3f0949a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\985b1946b764d487987c17f5712e49f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6b2150f0b46c832363346c1f26e5cb3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\17538b5a88fb05004ad13e93c6718fc5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\95f9f04ab21e379cbfc061c68cec58a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c77e27697b346f55c93b4f4cc321689e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\15c184fcd14fc909ee35a04668b012d8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5c2c429f8643ce739bc6a2c97d0f3fdf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9a57ccb0f5b4c1f231b506f4a05e684e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55e20be77855199aae573423bd8abc82\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ab547d70e2fdd62035a5acd3cba09077\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ab547d70e2fdd62035a5acd3cba09077\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.talhamughal.studentinfo.MainActivity
+ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\215b707cef1de66f119be5a8fb57504f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\215b707cef1de66f119be5a8fb57504f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ab547d70e2fdd62035a5acd3cba09077\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ab547d70e2fdd62035a5acd3cba09077\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\820292d3e14822c459c9eb3eb3f0949a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\820292d3e14822c459c9eb3eb3f0949a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\985b1946b764d487987c17f5712e49f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\985b1946b764d487987c17f5712e49f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6b2150f0b46c832363346c1f26e5cb3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6b2150f0b46c832363346c1f26e5cb3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\17538b5a88fb05004ad13e93c6718fc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\17538b5a88fb05004ad13e93c6718fc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\95f9f04ab21e379cbfc061c68cec58a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\95f9f04ab21e379cbfc061c68cec58a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c77e27697b346f55c93b4f4cc321689e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c77e27697b346f55c93b4f4cc321689e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\15c184fcd14fc909ee35a04668b012d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\15c184fcd14fc909ee35a04668b012d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5c2c429f8643ce739bc6a2c97d0f3fdf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5c2c429f8643ce739bc6a2c97d0f3fdf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9a57ccb0f5b4c1f231b506f4a05e684e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9a57ccb0f5b4c1f231b506f4a05e684e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55e20be77855199aae573423bd8abc82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Talha mughal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55e20be77855199aae573423bd8abc82\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Talha mughal\AndroidStudioProjects\StudentInfo\app\src\main\AndroidManifest.xml
